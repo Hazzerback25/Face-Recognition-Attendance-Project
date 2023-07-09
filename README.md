@@ -26,6 +26,10 @@ This Python project utilizes the `face_recognition` library and `cv2` (OpenCV) t
 
 <img width="970" alt="Screenshot 2023-07-09 at 2 39 39 PM" src="https://github.com/Hazzerback25/Face-Recognition-Attendance-Project/assets/85587494/23bed59b-9fe8-4bb8-af77-baa592521ac6">
 
+<div align="center">
+  <img width="158" alt="Screenshot 2023-07-09 at 2 51 06 PM" src="https://github.com/Hazzerback25/Face-Recognition-Attendance-Project/assets/85587494/9cc7f33d-9e68-44e2-87c2-ce2146dba31f">
+</div>
+
 
 ## Configuration
 
