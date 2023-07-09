@@ -20,6 +20,13 @@ This Python project utilizes the `face_recognition` library and `cv2` (OpenCV) t
 3. Run the main script to start the face recognition attendance system.
 4. The system will detect and recognize faces, and mark the attendance of recognized individuals in a CSV file.
 
+# Output
+
+<img width="973" alt="Screenshot 2023-07-09 at 2 40 27 PM" src="https://github.com/Hazzerback25/Face-Recognition-Attendance-Project/assets/85587494/8871df2d-f1d5-4f15-8902-f787443808b3">
+
+<img width="970" alt="Screenshot 2023-07-09 at 2 39 39 PM" src="https://github.com/Hazzerback25/Face-Recognition-Attendance-Project/assets/85587494/23bed59b-9fe8-4bb8-af77-baa592521ac6">
+
+
 ## Configuration
 
 You can modify various parameters and settings in the configuration file (`config.py`) to adjust the behavior of the system. These include:
