@@ -65,7 +65,7 @@ while True:
 
 
     cv2.imshow("Attendance",frame)
-    if cv2.waitKey(1) & 0xFF==ord("q"):
+    if cv2.waitKey(1) & 0xFF==ord("q"): #press 'q' to quit recorded video
         break
 
 video_capture.release()
