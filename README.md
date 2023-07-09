@@ -12,3 +12,19 @@ This Python project utilizes the `face_recognition` library and `cv2` (OpenCV) t
 ## Requirements
 
 - Python 3.0 and above
+  
+## Usage
+
+1. Prepare a dataset of images representing the faces of individuals whose attendance you want to track.
+2. Train the face recognition model on the dataset using the provided script.
+3. Run the main script to start the face recognition attendance system.
+4. The system will detect and recognize faces, and mark the attendance of recognized individuals in a CSV file.
+
+## Configuration
+
+You can modify various parameters and settings in the configuration file (`config.py`) to adjust the behavior of the system. These include:
+
+- Face detection and recognition thresholds.
+- File paths for the dataset, trained models, and attendance CSV file.
+- Webcam/video feed settings.
+
